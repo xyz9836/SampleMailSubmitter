@@ -1,7 +1,7 @@
 # SampleMailSubmitter
 A tool for automatically sending suspicious/false-flag files via email to Antivirus vendors
 ## Screenshot
-<img src="https://github.com/JerryLinLinLin/SampleMailSubmitter/blob/master/screenshot/main_eng.png" width="500" height="600" />
+<img src="https://github.com/xyz9836/SampleMailSubmitter/blob/master/screenshot/main_eng1.png" width="600" height="800" />
 
 ## Features
 
